@@ -1,1 +1,1 @@
-A mobile rseponsive sample of E-Commerce Website using HTML, CSS, JavaScript.
+A responsive E-Commerce Website using HTML, CSS, JavaScript.
