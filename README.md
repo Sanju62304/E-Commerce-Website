@@ -1,1 +1,1 @@
-A Fully-responsive E-Commerce Website using HTML, CSS, JavaScript.
+A fully-responsive E-Commerce Website using HTML, CSS, JavaScript.
